@@ -1,6 +1,6 @@
 # Hi, I'm Kirill. Other words - Rust enjoyer 🦀. 
 
-### - 🔭 I’m currently working on [RusticShare](https://github.com/1101-1/RusticShare)
+### - 🔭 I’m currently working on [RusticShare](https://github.com/1101-1/RusticShare) and staying in [Gigachads-Inc](https://github.com/Gigachads-Inc) organization 😎
 
 ### - 🌱 I’m currently learning **Rust, Axum, Tokio, and other things associated with Rust.**
 

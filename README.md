@@ -1,11 +1,11 @@
 # Hi, I'm Kirill. Other words - Rust enjoyer 🦀. 
 
-- 🔭 I’m currently working on [RusticShare](https://github.com/1101-1/RusticShare)
+### - 🔭 I’m currently working on [RusticShare](https://github.com/1101-1/RusticShare)
 
-- 🌱 I’m currently learning **Rust, Axum, Tokio, and other things associated with Rust.**
+### - 🌱 I’m currently learning **Rust, Axum, Tokio, and other things associated with Rust.**
 
 <h3 align="left">Contact with me:</h3>
-    Telegram: t.me/nekochanlover/
+   Telegram: t.me/nekochanlover/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

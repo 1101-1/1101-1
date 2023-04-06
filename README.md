@@ -2,7 +2,7 @@
 
 ### - 🔭 I’m currently working on [RusticShare](https://github.com/1101-1/RusticShare) and staying in [Gigachads-Inc](https://github.com/Gigachads-Inc) organization </a> <a href="https://github.com/Gigachads-Inc" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/119753129?s=200&v=4" alt="linux" width="40" height="40"/> </a>
 
-### - 🌱 I’m currently learning **Rust, Axum, Tokio, and other things associated with Rust.**
+### - 🌱 And I’m currently learning **Rust, Axum, Tokio, and other things associated with Rust.**
 
 <h3 align="left">Contact with me:</h3>
    <a href="https://t.me/nekochanlover/" target="_blank" rel="noreferrer"> Telegram: t.me/nekochanlover/

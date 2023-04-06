@@ -5,7 +5,7 @@
 ### - 🌱 I’m currently learning **Rust, Axum, Tokio, and other things associated with Rust.**
 
 <h3 align="left">Contact with me:</h3>
-   Telegram: t.me/nekochanlover/
+   <a href="https://t.me/nekochanlover/" target="_blank" rel="noreferrer"> Telegram: t.me/nekochanlover/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

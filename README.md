@@ -1,7 +1,8 @@
 
-## Languages and Tools
+## My skills and Tools
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="60" height="60"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="60" height="60"/> </a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1101-1&show_icons=true&locale=en&layout=compact" alt="1101-1" /></p>
+
+
 
 ## Hi, I'm Kirill. Other words - Rust enjoyer 🦀. 
 ### - I’m currently working on [RusticShare](https://github.com/1101-1/RusticShare) and staying in [Gigachads-Inc](https://github.com/Gigachads-Inc) organization </a> <a href="https://github.com/Gigachads-Inc" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/119753129?s=200&v=4" alt="linux" width="35" height="35"/> </a>

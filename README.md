@@ -6,6 +6,6 @@
 - Hi, I'm Kirill. Other words - Rust enjoyer 🦀
 - I’m learning **Rust, Axum, Tokio, and other things associated with Rust.**
 - Mainly interested in back-end development
-- And I’m currently working on [TRustyBox](https://github.com/1101-1/TRustyBox) and staying in [Gigachads-Inc](https://github.com/Gigachads-Inc) organization </a> <a href="https://github.com/Gigachads-Inc" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/119753129?s=200&v=4" alt="linux" width="30" height="30"/> </a>
+- Best project is [TRustyBox](https://github.com/1101-1/TRustyBox)
 
 ## Check this out: https://1101-1.github.io/

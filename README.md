@@ -6,6 +6,4 @@
 - Hi, I'm Kirill. Other words - Rust enjoyer 🦀
 - I’m learning **Rust, Axum, Tokio, and other things associated with Rust.**
 - Mainly interested in back-end development
-- Best project is [TRustyBox](https://github.com/1101-1/TRustyBox)
-
-## Check this out: https://1101-1.github.io/
+- Best project is [TRustyBox](https://github.com/1101-1/TRustyBox) and [Leetcode API](https://github.com/1101-1/LeetcodeRustAPI)

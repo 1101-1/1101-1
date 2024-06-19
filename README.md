@@ -1,10 +1,15 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1101-1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1101-1&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1101-1&theme=radical)
+
+
 ## About Me:
 
 - Hi, I'm Kirill. Other words - Rust enjoyer 🦀
 - I’m learning **Rust, Python**
 - 🌱 Always learning new things
 - ⚡ Passionate about open-source projects
-- Best projects is [TRustyBox](https://github.com/1101-1/TRustyBox) and [Leetcode API](https://github.com/1101-1/LeetcodeRustAPI)
+- 😎 Best projects is [TRustyBox](https://github.com/1101-1/TRustyBox) and [Leetcode API](https://github.com/1101-1/LeetcodeRustAPI)
 
 ---
 
@@ -39,16 +44,3 @@ Here are some of the projects I've worked on:
 - **[TRustyBox](https://github.com/1101-1/TRustyBox)**: A simple file-hosting service built with Rust, Axum, and Lit frameworks. Ensures secure file storage and retrieval with robust back-end support, leveraging MongoDB for authentication and AES-256 encryption for file security.
 - **[Leetcode-Rust-API](https://github.com/1101-1/Leetcode-Rust-API)**: A full-featured Rust library for interacting with the LeetCode API. Enables users to programmatically access LeetCode problems, submit solutions, and retrieve results. Features include fetching problem details, checking submission statuses, and managing user profiles.
 
----
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1101-1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1101-1&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1101-1&theme=radical)
-
----
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
-
-Thanks for visiting!

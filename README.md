@@ -1,7 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1101-1&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1101-1&theme=radical)
-
-
 ## About Me:
 
 - Hi, I'm Kirill. Other words - Rust enjoyer 🦀

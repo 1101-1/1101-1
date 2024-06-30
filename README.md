@@ -14,13 +14,9 @@
   - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
   - ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
 
-- **Tools**:
-  - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-  - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+- **Environment**:
   - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
   - ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-  - ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 
 - **Cloud Platforms**:
   - ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)

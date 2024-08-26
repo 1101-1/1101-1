@@ -1,7 +1,7 @@
 ## About Me:
 
 - Hi, I'm Kirill. Other words - Rust enjoyer 🦀
-- I’m learning **Rust, Python**
+- I love coding on **Rust, Python**
 - 🌱 Always learning new things
 - ⚡ Passionate about open-source projects
 - 😎 Best projects is [TRustyBox](https://github.com/1101-1/TRustyBox) and [Leetcode API](https://github.com/1101-1/LeetcodeRustAPI)
@@ -29,7 +29,7 @@
 
 Here are some of the projects I've worked on:
 
-- **[Online-Code-Compiler-Bot](https://github.com/1101-1/Online-Code-Compiler-Bot)**: A versatile Telegram bot that compiles code in six different programming languages, leveraging AI to automatically detect and execute the code. Supports languages like C, C++, Java, Python, Rust, and C#. Ideal for quick coding and testing on the go.
+- **[Online-Code-Compiler-Bot](https://github.com/1101-1/Online-Code-Compiler-Bot)**: A versatile Telegram bot that compiles code in six different programming languages, leveraging AI to automatically detect and execute the code. Supports languages like C, C++, Java, Python, Rust, C# and GO. Ideal for quick coding and testing on the go.
 - **[TRustyBox-Telegram-Bot](https://github.com/1101-1/TRustyBox-Telegram-Bot)**: A secure file-hosting bot for Telegram, designed with AES-256 encryption to ensure the safety of your files. Users can upload and share encrypted files effortlessly.
 - **[Chrome-Cookie-Decryptor (CCD)](https://github.com/1101-1/Chrome-Cookie-Decryptor)**: A fast and free tool for decrypting Chrome cookies, providing users with an easy way to access and manage their browser cookies securely and efficiently.
 - **[TRustyBox](https://github.com/1101-1/TRustyBox)**: A simple file-hosting service built with Rust, Axum, and Lit frameworks. Ensures secure file storage and retrieval with robust back-end support, leveraging MongoDB for authentication and AES-256 encryption for file security.

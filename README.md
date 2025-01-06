@@ -4,7 +4,7 @@
 - ❤️ I love coding on **Rust, Python, JS (without types)**
 - 🌱 Always learning new things
 - ⚡ Passionate about open-source projects
-- 😎 Best self-made projects is [TRustyBox](https://github.com/1101-1/TRustyBox) and [Leetcode API](https://github.com/1101-1/LeetcodeRustAPI)
+- 😎 Best self-made projects are [TRustyBox](https://github.com/1101-1/TRustyBox) and [Leetcode API](https://github.com/1101-1/LeetcodeRustAPI)
 
 ---
 

@@ -1,6 +1,6 @@
 ## About Me:
 
-- 👋 Hi, I'm **Kirill** – Rust enjoyer 🦀  
+- 👋 Hi, I'm Kirill – Rust enjoyer 🦀  
 - ❤️ Love coding in **Rust, Python, and Node.js (without types)**  
 - 🌱 Always learning new things  
 - ⚡ Passionate about **open-source projects**  

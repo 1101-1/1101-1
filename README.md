@@ -39,5 +39,3 @@
 - **[📜 Leetcode-Rust-API](https://github.com/1101-1/LeetcodeRustAPI)** – A full-featured **Rust API for LeetCode**, allowing interaction with problems and submissions.  
 
 ---
-
-This version has better formatting, improved icons, and a cleaner, more visually appealing layout. 🚀 Let me know if you want any tweaks!

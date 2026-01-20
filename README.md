@@ -30,8 +30,6 @@
 ---
 
 ### 🚀 Projects
-
-- **[🔗 KissLink](https://kissl.ink/github)** – A **simple, ad-free URL shortener** with no subscriptions and **advanced analytics**.  
 - **[🤖 Online-Code-Compiler-Bot](https://github.com/1101-1/Online-Code-Compiler-Bot)** – A **Telegram bot** that compiles and executes code in multiple programming languages.  
 - **[🛡️ TRustyBox-Telegram-Bot](https://github.com/1101-1/TRustyBox-Telegram-Bot)** – A secure file-hosting bot for Telegram with **AES-256 encryption**.  
 - **[🔓 Chrome-Cookie-Decryptor (CCD)](https://github.com/1101-1/Chrome-Cookie-Decryptor)** – A tool for **decrypting Chrome cookies** with an easy-to-use interface.  

@@ -3,10 +3,7 @@
 - 👋 Hi, I'm Kirill  
 - ❤️ Love coding in **Rust, Python, and Node.js (without types)**  
 - 🌱 Always learning new things  
-- ⚡ Passionate about **open-source projects**  
-- 😎 My best self-made projects:  
-  - [📦 TRustyBox](https://github.com/1101-1/TRustyBox) – A secure encrypted **file-hosting service** built with Rust and Axum.  
-  - [🧩 Leetcode API](https://github.com/1101-1/LeetcodeRustAPI) – A full-featured **LeetCode API** in Rust.  
+- ⚡ Passionate about **open-source projects**   
 
 ---
 
